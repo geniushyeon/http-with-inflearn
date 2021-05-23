@@ -8,3 +8,15 @@
 3. TCP, UDP
 4. PORT
 5. DNS
+
+## 2021.05.23
+[URI와 웹 브라우저 요청 흐름, HTTP 기본](TIL/20210523.md)
+### URI와 웹 브라우저 요청 흐름
+1. URI
+2. 웹 브라우저 요청 흐름
+### HTTP 기본
+1. 모든 것이 HTTP
+2. 클라이언트 서버 구조
+3. stateful, stateless
+4. 비연결성
+5. HTTP 메시지
