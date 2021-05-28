@@ -20,3 +20,10 @@
 3. stateful, stateless
 4. 비연결성
 5. HTTP 메시지
+
+## 2021.05.28
+[HTTP 메서드](TIL/20210528.md)
+1. HTTP API를 만들어보자
+2. HTTP 메서드 - GET, POST
+3. HTTP 메서드 - PUT, PATCH, DELETE
+4. HTTP 메서드의 속성
