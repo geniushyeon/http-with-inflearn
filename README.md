@@ -27,3 +27,8 @@
 2. HTTP 메서드 - GET, POST
 3. HTTP 메서드 - PUT, PATCH, DELETE
 4. HTTP 메서드의 속성
+
+## 2021.05.29
+[HTTP 메서드 활용](TIL/20210529.md)
+1. 클라이언트에서 서버로 데이터 전송
+2. HTTP API 설계 예시
